@@ -1,4 +1,4 @@
-# php-quiz-application
+
 # PHP Quiz Application
 
 ## Overview
